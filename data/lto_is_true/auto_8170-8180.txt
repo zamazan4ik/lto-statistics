@@ -1,0 +1,2 @@
+https://github.com/oxidecomputer/hubris
+https://github.com/HorizenLabs/zkVerify

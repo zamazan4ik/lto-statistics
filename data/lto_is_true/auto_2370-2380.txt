@@ -1,0 +1,12 @@
+https://github.com/finos/perspective
+https://github.com/PSeitz/veloci
+https://github.com/sebcrozet/gitlab_test
+https://github.com/ari-pall/bevy_game
+https://github.com/InstateDev/w3ns
+https://github.com/F1rst-Unicorn/tiny-auth
+https://github.com/influxdata/flux-lsp
+https://github.com/knutwalker/roa
+https://github.com/LedgerProject/safepkt_smart-contract-example
+https://github.com/ChainSafe/zcash-wasm-benchmark
+https://github.com/KompleTeam/komple-framework
+https://github.com/simsekgokhan/my_rust_templates

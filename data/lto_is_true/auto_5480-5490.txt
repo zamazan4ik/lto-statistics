@@ -1,0 +1,2 @@
+https://github.com/dimforge/nalgebra
+https://github.com/zzfame-dev/DigitalExtinctionGame

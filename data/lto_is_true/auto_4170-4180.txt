@@ -1,0 +1,5 @@
+https://github.com/neovide/neovide
+https://github.com/geoarrow/geoarrow-rs
+https://github.com/trobanga/calendula
+https://github.com/irwinarruda/rust-todo-list
+https://github.com/desbma/polybar-modules

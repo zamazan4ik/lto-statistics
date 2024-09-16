@@ -1,0 +1,8 @@
+https://github.com/enviodev/hyperfuel-client-python
+https://github.com/Player01osu/aniki
+https://github.com/bitlightlabs/bitlight-rgb20-contract-testnet4
+https://github.com/talebox/slepau
+https://github.com/1-rafael-1/moving_median
+https://github.com/Kodylow/flakebot
+https://github.com/simonrw/listprojects
+https://github.com/kenorb/bloom

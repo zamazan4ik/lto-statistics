@@ -1,0 +1,3 @@
+https://github.com/enso-org/enso
+https://github.com/bitfinity-network/bit-fusion-sdk
+https://github.com/martinfrances107/photo_indexer

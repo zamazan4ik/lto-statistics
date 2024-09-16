@@ -1,0 +1,5 @@
+https://github.com/thaw-ui/thaw
+https://github.com/JosiahParry/leptos-flowbite
+https://github.com/nerdachse/leptos-simple-kanban-board
+https://github.com/senekor/ITSec-Rust
+https://github.com/YoungHaKim7/wasix-rust-examples_training2024

@@ -1,0 +1,7 @@
+https://github.com/embassy-rs/embassy
+https://github.com/GlobalPlatform/TPS-API-Reference-Implementations
+https://github.com/Reknij/elerp
+https://github.com/HuangJinAmm/http_mock_server
+https://github.com/commontoolsinc/system
+https://github.com/itpofy2024o/update-your-kit
+https://github.com/leptos-rs/start-axum-0.7

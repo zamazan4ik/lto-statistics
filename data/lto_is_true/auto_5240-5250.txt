@@ -1,0 +1,2 @@
+https://github.com/chiro2001/osc-counect-rs
+https://github.com/newton84/hytrustdesk

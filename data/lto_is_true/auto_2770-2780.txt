@@ -1,0 +1,11 @@
+https://github.com/nacos-group/r-nacos
+https://github.com/skalimoi/OpenBTMapGen
+https://github.com/wormhole-foundation/example-zk-light-clients
+https://github.com/balancednetwork/balanced-rust-contracts
+https://github.com/Mesagisto/telegram-message-source
+https://github.com/yiwen-ai/walletbase
+https://github.com/cbbowen/stark
+https://github.com/DataDog/datadog-lambda-extension
+https://github.com/dist-svc/dsf
+https://github.com/juspay/hyperswitch-encryption-service
+https://github.com/DevNulPavel/rust_examples

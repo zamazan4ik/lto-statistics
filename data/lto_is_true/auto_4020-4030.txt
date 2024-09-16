@@ -1,0 +1,6 @@
+https://github.com/hinto-janai/gupax
+https://github.com/stm32-rs/stm32l4xx-hal
+https://github.com/davidvj14/psicotesis
+https://github.com/AsgrimS/stack-tavern-v2
+https://github.com/lukashermansson/website
+https://github.com/leahjia/llama2

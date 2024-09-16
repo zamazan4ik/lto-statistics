@@ -1,0 +1,9 @@
+https://github.com/rxing-core/rxing
+https://github.com/0LNetworkCommunity/carpe
+https://github.com/mre/fungi
+https://github.com/italoag/rfb-rs
+https://github.com/mlehmannm/java-updater-rs
+https://github.com/EdJoPaTo/mqtt-hostname-online
+https://github.com/SUPERCILEX/grocery_bagger_9000
+https://github.com/EyeTrackVR/FirmwareFlashingTool
+https://github.com/getlipa/lipa-lightning-lib

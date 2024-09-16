@@ -1,0 +1,3 @@
+https://github.com/jtmoon79/super-speedy-syslog-searcher
+https://github.com/Physiome/pmrplatform
+https://github.com/wzzju/llm-tools

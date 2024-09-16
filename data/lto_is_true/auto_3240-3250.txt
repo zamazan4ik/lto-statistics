@@ -1,0 +1,5 @@
+https://github.com/cncf/landscape2
+https://github.com/lukaspustina/mhost
+https://github.com/Verseghy/matverseny-backend
+https://github.com/Buckram123/cw-croncat
+https://github.com/minus3theta/contest

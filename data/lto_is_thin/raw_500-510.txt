@@ -1,0 +1,15 @@
+https://github.com/FindoraNetwork/findora-poker
+https://github.com/exa04/cyma
+https://github.com/raifthenerd/julia_docsets
+https://github.com/GamingLiamStudios/glOS2
+https://github.com/scott-wilson/pg_fraction
+https://github.com/XDream8/hc-rs
+https://github.com/uku3lig/mapartcalc
+https://github.com/Wireless4024/ssg-parser
+https://github.com/alexmikhalevich/risc0-merkle-integration
+https://github.com/deevashwer/zebra
+https://github.com/k-84mo10/typst_modification
+https://github.com/whisperpine/udptk
+https://github.com/Rhelvetican/password
+https://github.com/exa04/cyma
+https://github.com/exa04/react_plug

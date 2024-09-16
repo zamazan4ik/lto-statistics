@@ -1,0 +1,3 @@
+https://github.com/aptos-labs/aptos-core
+https://github.com/shaokun11/move-me2
+https://github.com/zmoveguy/aptos-move-linter

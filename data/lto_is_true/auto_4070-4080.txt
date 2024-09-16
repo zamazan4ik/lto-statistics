@@ -1,0 +1,4 @@
+https://github.com/rust-osdev/bootloader
+https://github.com/Rodrigodd/gameroy
+https://github.com/circles-project/matrix-rust-sdk
+https://github.com/tpalinski/bsk-2024

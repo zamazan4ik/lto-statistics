@@ -1,0 +1,7 @@
+https://github.com/Phosphorus-M/RustLangPageAlter
+https://github.com/leahjia/llama2
+https://github.com/seanaye/personal-site
+https://github.com/clpi/di-client
+https://github.com/AlexXi19/triton-validation
+https://github.com/FabioDiCeglie/Rust-Projects
+https://github.com/AlexXi19/leptos-tailwind-template

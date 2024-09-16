@@ -1,0 +1,7 @@
+https://github.com/VirusTotal/yara-x
+https://github.com/Supercolony-net/openbrush-contracts
+https://github.com/snoww/loa-logs
+https://github.com/rojo-rbx/rokit
+https://github.com/hadronlabs-org/drop-contracts
+https://github.com/facorread/wasm-agent-based-models
+https://github.com/mkroli/kafka-proxy

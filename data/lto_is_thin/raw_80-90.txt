@@ -1,0 +1,8 @@
+https://github.com/ekzhang/percival
+https://github.com/Telefragged/off-the-grid
+https://github.com/hcsch/crsp
+https://github.com/kylegranger/taiko-prover
+https://github.com/ArjenL/AoC2022
+https://github.com/NightShade256/Argentum
+https://github.com/Absolucy/video-scrubber
+https://github.com/vmc-coding/joinc

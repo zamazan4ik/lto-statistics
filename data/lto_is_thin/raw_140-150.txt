@@ -1,0 +1,12 @@
+https://github.com/mkroening/edu-sync
+https://github.com/WilliamVenner/gmserverplugin
+https://github.com/manshanko/tts-air
+https://github.com/wait-what/macroquad-boilerplate
+https://github.com/heathsc/gemBS-rs
+https://github.com/audacioustux/anydrop-rs
+https://github.com/Colerar/Plutus
+https://github.com/axodotdev/axolotlsay-hybrid
+https://github.com/Hironha/leet-code-rs
+https://github.com/packysauce/rdfs
+https://github.com/rytrix/pwm-rust
+https://github.com/jsfr/rmenu

@@ -1,0 +1,8 @@
+https://github.com/leptos-rs/leptos
+https://github.com/mobilecoinfoundation/mobilecoin
+https://github.com/Panaetius/leptos-prev-default-reproduction
+https://github.com/p9648213/axum-oauth
+https://github.com/florianhartung/simple-todo-webapp
+https://github.com/armanriazi/rust-all-in-one-2022-archived
+https://github.com/AkhilSharma90/Rust-Leptos-Axum-Hackernews
+https://github.com/regshort/perspective

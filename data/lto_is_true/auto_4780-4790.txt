@@ -1,0 +1,2 @@
+https://github.com/tnull/ldk-node-hack
+https://github.com/djkato/saleor-apps-rs

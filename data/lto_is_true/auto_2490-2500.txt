@@ -1,0 +1,10 @@
+https://github.com/nbittich/adana
+https://github.com/thasos/eloran
+https://github.com/CronCats/cw-purrbox
+https://github.com/gridgentoo/cloud-hypervisor
+https://github.com/droundy/latex_snippet
+https://github.com/nuno1212s/testing-grounds
+https://github.com/mmtk/mmtk-openjdk
+https://github.com/dyn-art/monorepo
+https://github.com/NVIDIA/sybil
+https://github.com/leesum1/RV64emu-rs

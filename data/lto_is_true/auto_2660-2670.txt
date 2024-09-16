@@ -1,0 +1,12 @@
+https://github.com/cds-astro/aladin-lite
+https://github.com/ergoplatform/sigma-rust
+https://github.com/amplab/clipper-v0
+https://github.com/anvlkv/a-nvlkv-xyz
+https://github.com/escrin/escrin
+https://github.com/jymchng/rust-workspace-template
+https://github.com/LaBatata101/sith-language-server
+https://github.com/akesson/leptos-signals
+https://github.com/lvtuwjl/axum-demo
+https://github.com/rohankumardubey/bat
+https://github.com/BBBSnowball/analog-noise
+https://github.com/rohankumardubey/clap

@@ -1,0 +1,6 @@
+https://github.com/mobilecoinfoundation/fog
+https://github.com/FlixCoder/bonsaimq
+https://github.com/Powdee/leptos-portfolio
+https://github.com/safstromo/rabbitnook
+https://github.com/aethertap/leptos_axum_login
+https://github.com/RaunakChhatwal/ReleaseNotes.ai

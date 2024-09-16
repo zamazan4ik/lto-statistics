@@ -1,0 +1,4 @@
+https://github.com/substrate-asia/hackathon-2023-winter
+https://github.com/paritytech-stg/polkadot-sdk-mirror-source
+https://github.com/silver-coding-blockchain/polkadot-sdk
+https://github.com/soft-law/zerk

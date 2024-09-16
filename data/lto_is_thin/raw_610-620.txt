@@ -1,0 +1,14 @@
+https://github.com/xkevio/kevboy
+https://github.com/tildecoin/rtcoin
+https://github.com/physiii/CollectiveFS
+https://github.com/jefbarn/pgx_json_schema
+https://github.com/MiloTheFox/rust-password-hashing
+https://github.com/jdnewman85/bevy_ld_editor
+https://github.com/marysaka/octoling
+https://github.com/caengen/mp-arpg-bevy
+https://github.com/errantmind/faf-example
+https://github.com/meyira/OIDA
+https://github.com/CKingX/x86-feature-test
+https://github.com/phlip9/aoc20
+https://github.com/BlackDex/rust-musl
+https://github.com/hnakamur/nginx-quictls-deb

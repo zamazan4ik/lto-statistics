@@ -1,0 +1,8 @@
+https://github.com/leptos-rs/leptos
+https://github.com/khulnasoft/landscape
+https://github.com/zefr0x/foxmarks
+https://github.com/orchid-admin/axum-admin
+https://github.com/desbma/todo
+https://github.com/sstelfox/web-app-template
+https://github.com/Dreamfools/scrap3
+https://github.com/MaaXYZ/MaaZ

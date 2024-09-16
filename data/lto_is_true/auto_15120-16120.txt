@@ -1,0 +1,10 @@
+https://github.com/AcalaNetwork/Acala
+https://github.com/Setheum-Labs/Setheum
+https://github.com/meta-flutter/crosvm
+https://github.com/capsule-corp-ternoa/ternoa-node
+https://github.com/Watr-Protocol/watr
+https://github.com/sevki/codex
+https://github.com/sevki/libcrosvm
+https://github.com/paseo-network/runtimes
+https://github.com/sergeymaslov/vector-x86_32
+https://github.com/code-423n4/2024-03-acala

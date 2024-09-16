@@ -1,0 +1,8 @@
+https://github.com/ferrocene/ferrocene
+https://github.com/nolus-protocol/nolus-money-market
+https://github.com/Dirout/larz
+https://github.com/gytis-ivaskevicius/ion-shell
+https://github.com/Zorz42/Terralistic
+https://github.com/KarelPeeters/kZero
+https://github.com/CoAuToSe/dev
+https://github.com/delta4chat/hitdns

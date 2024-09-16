@@ -1,0 +1,4 @@
+https://github.com/constellation-rs/amadeus
+https://github.com/djkoloski/rust_serialization_benchmark
+https://github.com/ChaoticOnyx/rust-g
+https://github.com/0xkelvin/experiment2

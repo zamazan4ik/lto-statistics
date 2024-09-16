@@ -1,0 +1,8 @@
+https://github.com/roapi/roapi
+https://github.com/LiveSplit/auto-splitter-template
+https://github.com/evilsocket/nerve
+https://github.com/PSeitz/lz4_flex
+https://github.com/yiwen-ai/logbase
+https://github.com/argumentcomputer/lurk-web-utils
+https://github.com/waxz/rs_robot
+https://github.com/HashCash-Consultants/rs-soroban-env

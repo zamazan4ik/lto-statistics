@@ -1,0 +1,17 @@
+https://github.com/kurtlawrence/papyrus
+https://github.com/rust-lang/rustc-perf
+https://github.com/VisualSource/rusty-mc-launcher
+https://github.com/bigcoredev/nautilus_trader
+https://github.com/jonlamb-gh/air-gradient-pro-rs
+https://github.com/vishalcjha/ludo
+https://github.com/mattwparas/steel-playground
+https://github.com/srinjoychakravarty/ink-contracts
+https://github.com/lightning-signer/vls
+https://github.com/MosRat/MixTex-rs-GUI
+https://github.com/dusk-network/wallet-core
+https://github.com/arcmarqs/fe-stp
+https://github.com/jsgroth/ps1-emu
+https://github.com/mintlayer/mintlayer-trezor-firmware
+https://github.com/DanikVitek/iot-system
+https://github.com/191220029/rust_benchmarks_1.71
+https://github.com/hevz/rust-bench

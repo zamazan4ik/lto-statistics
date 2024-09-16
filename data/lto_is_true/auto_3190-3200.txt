@@ -1,0 +1,2 @@
+https://github.com/morn-0/river
+https://github.com/UPB-RustWorkshop/IPW-Embedded

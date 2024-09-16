@@ -1,0 +1,7 @@
+https://github.com/astral-sh/ruff
+https://github.com/foundry-rs/foundry
+https://github.com/GreptimeTeam/greptimedb
+https://github.com/Interstellar-Network/wallet-app
+https://github.com/heddaronssa/fnd
+https://github.com/storm-software/reaper
+https://github.com/pexip/os-ruff

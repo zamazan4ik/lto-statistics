@@ -1,0 +1,14 @@
+https://github.com/dbalsom/martypc
+https://github.com/BitVM/BitVM
+https://github.com/russellbanks/Komac
+https://github.com/dhoeppne/website.rs
+https://github.com/deathbreakfast/daisy-leptos-axum
+https://github.com/itpofy2024o/update-your-kit
+https://github.com/rozaluksemburg/allegro
+https://github.com/Alaydriem/bedrock-voice-chat
+https://github.com/McFlanky/chatbot-rs
+https://github.com/v6b/v6
+https://github.com/sowbug/groove
+https://github.com/Xobtah/hermes
+https://github.com/ninjasource/rp-picow-examples
+https://github.com/elementlabs42/BitVM-playground

@@ -1,0 +1,11 @@
+https://github.com/leptos-rs/leptos
+https://github.com/dotbitHQ/did-contracts
+https://github.com/bryncoldwell/daily-todos
+https://github.com/NiklasEi/start-axum-workspace-islands-ssg
+https://github.com/enarx/steward
+https://github.com/sysmaster-online/sysmaster
+https://github.com/Tiamat-KIT/WebAssemblyMonoRepo
+https://github.com/przempore/memory-match
+https://github.com/BrandonDyer64/leptos-workers
+https://github.com/arena-imperium/Imperium
+https://github.com/Synphonyte/briefpappe-rs

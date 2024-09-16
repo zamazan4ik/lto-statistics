@@ -1,0 +1,3 @@
+https://github.com/ImTheSquid/CodeCheck
+https://github.com/RedBoxing/exlaunch-rs
+https://github.com/johnbchron/mage_corp

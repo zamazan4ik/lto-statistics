@@ -1,0 +1,13 @@
+https://github.com/lsk569937453/silverwind
+https://github.com/zephyrj/engine-crane
+https://github.com/BLucky-gh/dotfiles
+https://github.com/foxjazz/survey
+https://github.com/gobanos/lpc8xx-hal
+https://github.com/deepin-community/rust-nom
+https://github.com/ii64/volo_testing
+https://github.com/KompleTeam/komple-framework
+https://github.com/yiwen-ai/writing
+https://github.com/CotCatalin15/windows-driver-rust-framework
+https://github.com/holmofy/proxy-benchmark
+https://github.com/AshSimmonds/leptos-rs-start-01
+https://github.com/matthiasdebernardini/leptos-resume

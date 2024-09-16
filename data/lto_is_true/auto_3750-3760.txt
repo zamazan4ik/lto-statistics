@@ -1,0 +1,5 @@
+https://github.com/maplibre/martin
+https://github.com/kxxt/aspeak
+https://github.com/secretarybird97/starsheep-rs
+https://github.com/regshort/perspective
+https://github.com/shards-lang/cargo-vendor

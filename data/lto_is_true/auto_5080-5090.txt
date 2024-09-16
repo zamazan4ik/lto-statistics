@@ -1,0 +1,3 @@
+https://github.com/lightningdevkit/ldk-node
+https://github.com/spkenv/spk
+https://github.com/anonymousGiga/substrate-tutorials

@@ -1,0 +1,6 @@
+https://github.com/simd-lite/simd-json
+https://github.com/zk4x/zyx
+https://github.com/dxps/rust_playground
+https://github.com/ZanzyTHEbar/Almanac
+https://github.com/emirotin/railway-tt
+https://github.com/mariinkys/delphinus_flashcards

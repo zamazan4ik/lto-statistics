@@ -1,0 +1,10 @@
+https://github.com/maciejhirsz/logos
+https://github.com/stm32-rs/stm32f0xx-hal
+https://github.com/archeoss/bmstu-cg-courseProject-5th-sem
+https://github.com/Lazap-Development/Lazap
+https://github.com/Dirout/odo
+https://github.com/oasislabs/oasis-chain
+https://github.com/CreoDAMO/QuantumFuse_Blockchain
+https://github.com/vaultie/teddybear
+https://github.com/booiris/lark_bot_sdk
+https://github.com/patricoferris/scratch

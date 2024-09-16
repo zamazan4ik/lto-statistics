@@ -1,0 +1,2 @@
+https://github.com/spotlesstofu/trustee-vendor
+https://github.com/anton-sviridov/retina-cli

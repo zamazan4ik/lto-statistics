@@ -1,0 +1,12 @@
+https://github.com/leptos-rs/start-axum
+https://github.com/zydou/arti
+https://github.com/correabuscar/sandbox
+https://github.com/franccy29/racoon
+https://github.com/tomgroenwoldt/apt-mate
+https://github.com/NiklasEi/cinnog_example
+https://github.com/dobleuber/avatar-creator
+https://github.com/yuk6ra/sample-picow-led-rs
+https://github.com/amatureApe/rusty-llama
+https://github.com/JackWithOneEye/ssr-palooza
+https://github.com/mzzfederico/emmuoviti-app
+https://github.com/LouisLibre/ssr_local_storage_todo

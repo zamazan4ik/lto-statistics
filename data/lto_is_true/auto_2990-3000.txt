@@ -1,0 +1,8 @@
+https://github.com/quartiq/stabilizer
+https://github.com/jsgroth/jgenesis
+https://github.com/synacktiv/shh
+https://github.com/owent/ddns-cli
+https://github.com/dvdsk/env-sensor-node
+https://github.com/andelf/rp-embassy-playground
+https://github.com/sit-fyi/sit-cargo-deps
+https://github.com/desbma/shh

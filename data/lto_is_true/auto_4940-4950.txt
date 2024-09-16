@@ -1,0 +1,5 @@
+https://github.com/edgedb/edgedb-cli
+https://github.com/sebastienrousseau/kyberlib
+https://github.com/semi-automatique/Anki-Cody
+https://github.com/5TBgithub/Learning
+https://github.com/HexMole/TraderMock

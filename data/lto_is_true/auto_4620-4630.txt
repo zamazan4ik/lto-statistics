@@ -1,0 +1,8 @@
+https://github.com/rust-lang/rustup
+https://github.com/Defelo/AdventOfCode
+https://github.com/inexorgame/reactive-graph-plugins-game
+https://github.com/ss220-space/rust-g-tg
+https://github.com/sdd/kiddo
+https://github.com/kjetilfjellheim/monitoring-agent
+https://github.com/Being-only-you/web
+https://github.com/clear-crab/toolchain-installer

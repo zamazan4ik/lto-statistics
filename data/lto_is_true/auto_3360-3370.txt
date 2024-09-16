@@ -1,0 +1,10 @@
+https://github.com/Marwes/combine
+https://github.com/kleinesfilmroellchen/spcasm
+https://github.com/evaneaston/serde_yml
+https://github.com/ChorusOne/celo-light-client
+https://github.com/Phala-Network/phat-quickjs
+https://github.com/Elizafox/shadyurl-rust
+https://github.com/ethqnol/YAPP-rs
+https://github.com/ArthurTh0mas/martinez
+https://github.com/leejw51crypto/CodingNote
+https://github.com/spamviech/zugkontrolle

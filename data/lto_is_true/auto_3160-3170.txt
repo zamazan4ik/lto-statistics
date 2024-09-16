@@ -1,0 +1,2 @@
+https://github.com/silkenweb/silkenweb
+https://github.com/miniocean404-rust/image-compress

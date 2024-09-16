@@ -1,0 +1,14 @@
+https://github.com/hrkfdn/ncspot
+https://github.com/thebashpotato/egui-aesthetix
+https://github.com/polka-domain/polka-domain
+https://github.com/janhohenheim/foxtrot
+https://github.com/kylerchin/ayn-new-campaign-site
+https://github.com/alexohneander/alexohneander-rust
+https://github.com/vhfmag/leptos-release-mode-hydration-issue
+https://github.com/JosiahParry/fireship-disc
+https://github.com/JonRCahill/leptos-server-action-redirect-issue
+https://github.com/Juan-LukeKlopper/straw-hat-builds
+https://github.com/lovechants/projects
+https://github.com/afarinetti/test_foxtrot_game
+https://github.com/Jin992/bevy_client
+https://github.com/campbellgoe/foxtrot-bevy-project

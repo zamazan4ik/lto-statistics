@@ -1,0 +1,6 @@
+https://github.com/fcwe34r/ccc
+https://github.com/HashCash-Consultants/soroban-cli-junk
+https://github.com/fatfingers23/rusty-badger
+https://github.com/Kay-cwc/crm-fullstack-leptos
+https://github.com/tomit4/leptos-ssr
+https://github.com/Gus42/darkmode-leptos-axum

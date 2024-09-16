@@ -1,0 +1,12 @@
+https://github.com/slog-rs/slog
+https://github.com/AryanpurTech/BlueEngine
+https://github.com/kyleu/generust
+https://github.com/rpcpool/yellowstone-grpc-carpool
+https://github.com/webb-tools/webb.js
+https://github.com/desbma/cargo-template
+https://github.com/ht32-rs/ht32f1yyy-hal
+https://github.com/191220029/rust_benchmarks_1.71
+https://github.com/luizfonseca/proksi
+https://github.com/veracruz-project/incubator-teaclave-sgx-sdk
+https://github.com/mithril-security/teaclave-sgx-sdk
+https://github.com/shirshak55/gps_data_phala

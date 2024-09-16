@@ -1,0 +1,13 @@
+https://github.com/AnacletoLAB/ensmallen
+https://github.com/keithamus/hdx
+https://github.com/Granola-Team/mina-indexer
+https://github.com/MoreTore/connect-killer
+https://github.com/silvanshade/tauri-webview-util
+https://github.com/ecrs-org/ecrs
+https://github.com/Qubasa/perf_kernel
+https://github.com/v0x0g/rayna
+https://github.com/syte-ai/http-diff
+https://github.com/User65k/flash_rust_ws
+https://github.com/MinisculeGirraffe/nrf-keyboard
+https://github.com/Gui-Yom/turbo-metrics
+https://github.com/DarthB/bevy-jam-2-tba

@@ -1,0 +1,10 @@
+https://github.com/InPlusLab/Meepo
+https://github.com/MoonKraken/hotblog
+https://github.com/dvtkrlbs/website
+https://github.com/shtolfensie/cookie
+https://github.com/johwer/my-rusty-llma
+https://github.com/apkp7/Driver-DEBS
+https://github.com/HeavenAQ/rust-leptos-frontend-template
+https://github.com/apmcoin/apm-reward-layer
+https://github.com/dxps/leptos_playground
+https://github.com/korchiev/smartchaindb

@@ -1,0 +1,12 @@
+https://github.com/Cammisuli/monodon
+https://github.com/Brooooooklyn/hns
+https://github.com/lquenti/talks
+https://github.com/FiveSheepCo/twitter-wordlist-compiler
+https://github.com/codyslexia/nexa
+https://github.com/qm3ster/zigbeer-rs
+https://github.com/Milo-Shen/TidyTree
+https://github.com/FauxFaux/mid
+https://github.com/om-network/todoapp
+https://github.com/mylifenp/learn-federation
+https://github.com/codyslexia/codyslexia
+https://github.com/BurntNail/KingsEssayProjects

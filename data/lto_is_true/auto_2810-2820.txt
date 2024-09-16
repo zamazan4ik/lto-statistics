@@ -1,0 +1,8 @@
+https://github.com/hopinc/cli
+https://github.com/HorizenOfficial/zendoo-mc-cryptolib
+https://github.com/lpc55/lpc55-host
+https://github.com/gtank/defcon25_crypto_village
+https://github.com/earthcomputing/CellAgent
+https://github.com/bsodmike/h7
+https://github.com/cycle-five/cracktunes
+https://github.com/thorio/gravel

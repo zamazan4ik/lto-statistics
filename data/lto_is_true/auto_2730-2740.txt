@@ -1,0 +1,6 @@
+https://github.com/mitmproxy/mitmproxy_rs
+https://github.com/Neotron-Compute/Neotron-Pico-BIOS
+https://github.com/uutils/hostname
+https://github.com/mjwells2002/pictochat-rs
+https://github.com/alttch/yedb-rs
+https://github.com/hatoo/oha-release-test

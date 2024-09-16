@@ -1,0 +1,14 @@
+https://github.com/YushiOMOTE/perde
+https://github.com/rochen-sound-collective/modular_collection
+https://github.com/shreykavi/bevy_snake
+https://github.com/SebMenozzi/hypernav
+https://github.com/JLockerman/table_builder_poc
+https://github.com/norskeld/zeal
+https://github.com/rustcc/hackathon2022
+https://github.com/parK-dev/rust-roguelike
+https://github.com/LoafDev/THE-PI-GAME
+https://github.com/camblomquist/bevy_fps_mre
+https://github.com/der-ginseng/goool
+https://github.com/LoafDev/loaf-s-calculator
+https://github.com/staccDOTsol/blinkflip.fun
+https://github.com/FluxTape/ringbuffer

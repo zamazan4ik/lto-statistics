@@ -1,0 +1,7 @@
+https://github.com/samuela/rustybox
+https://github.com/sdroege/gst-plugin-rs
+https://github.com/papermoonio/substrate-advance-8-homework
+https://github.com/rcaelers/guardrail
+https://github.com/briceyan/substrate-solochain-template
+https://github.com/GStreamer/gst-plugins-rs
+https://github.com/kingosticks/gst-plugins-rs

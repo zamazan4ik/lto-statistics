@@ -1,0 +1,9 @@
+https://github.com/microsoft/vscode
+https://github.com/apache/incubator-teaclave-sgx-sdk
+https://github.com/ethersync/ethersync
+https://github.com/KompleTeam/komple-framework
+https://github.com/LemmyNet/lemmy-ui-leptos
+https://github.com/P3rtang/tallyWeb
+https://github.com/a11ywatch/accessibility-rs
+https://github.com/Inco-fhevm/inco-sgx-enclave-poc
+https://github.com/linekm/rust_sgx_example

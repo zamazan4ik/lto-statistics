@@ -1,0 +1,9 @@
+https://github.com/rabbit-digger/rabbit-digger-pro
+https://github.com/rozaluksemburg/happy
+https://github.com/dobleuber/avatar-creator
+https://github.com/leptos-rs/preview
+https://github.com/MbBrainz/BrainDCA
+https://github.com/lasagnats/e2e-wasm-perf-testing
+https://github.com/Takathediscordbot/taka-the-discord-bot-web
+https://github.com/obskur123/blog
+https://github.com/aschey/slite

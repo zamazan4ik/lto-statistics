@@ -1,0 +1,15 @@
+https://github.com/nmandery/h3ronpy
+https://github.com/rust-tutorials/triangle-from-scratch
+https://github.com/bobbobbio/come_boy
+https://github.com/fourbytes/sdo_rs
+https://github.com/LeshaInc/gg
+https://github.com/greatest-ape/sleef-trig
+https://github.com/substrate-asia/hackathon-2022-winter
+https://github.com/martinn/repoblame
+https://github.com/TVKain/Conway
+https://github.com/proofcastlabs/bitcoinzk
+https://github.com/avisi-group/borg
+https://github.com/nmalisetty/hems
+https://github.com/dsprenkels/dilithium-aborts-distributions
+https://github.com/miketon/JupyterJeep
+https://github.com/Hironha/leet-code-rs

@@ -1,0 +1,12 @@
+https://github.com/IntQuant/noita_entangled_worlds
+https://github.com/VerisimilitudeX/PasswordLLM
+https://github.com/krobelus/rate
+https://github.com/harmony-development/integration-testing
+https://github.com/FuegoFro/advent_of_code
+https://github.com/ScottyThePilot/nebulous-fleet-generator
+https://github.com/NnsDao/nnsdao
+https://github.com/deltaswapio/deltaswap
+https://github.com/jrtabash/prefix_calculator
+https://github.com/simolus3/chan_discord
+https://github.com/bracketloader/wormhole
+https://github.com/acopier/rps-rust

@@ -1,0 +1,17 @@
+https://github.com/ProvableHQ/sdk
+https://github.com/afnanenayet/diffsitter
+https://github.com/dusk-network/plonk
+https://github.com/omandrushko/ssr-learning-axum-leptos
+https://github.com/liberland/liberland_substrate
+https://github.com/phillipbaird/leptos-axum-start
+https://github.com/cuprumwz/spiders
+https://github.com/carlosrobert0/rust-application
+https://github.com/adrianncovaci/leptos_reproduce
+https://github.com/georglauterbach/uncore
+https://github.com/viveksg/ppmtool
+https://github.com/AMTSupport/tools
+https://github.com/Web3-Builders-Alliance/Cluster4CodeChallenge1.W22MTW.Chad
+https://github.com/mobilecoinfoundation/mobilecoin
+https://github.com/elitexpro/dao-dao-contracts
+https://github.com/cryptooeros/daodao-contracts
+https://github.com/elitexpro/daodao-contracts

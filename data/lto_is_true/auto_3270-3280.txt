@@ -1,0 +1,4 @@
+https://github.com/NpoolFilecoin/fil-peggy
+https://github.com/BLucky-gh/dotfiles
+https://github.com/M1ngXU/aoc-rs
+https://github.com/darkstardust98/AI-chat-bot

@@ -1,0 +1,13 @@
+https://github.com/Stremio/stremio-core
+https://github.com/serpent-os/moss
+https://github.com/KompleTeam/komple-framework
+https://github.com/mikedotexe/cw-i2-accounts
+https://github.com/ose20/walk-the-dog
+https://github.com/cloone8/WutEngine
+https://github.com/isambard-sc/clifton
+https://github.com/SV-97/pcw-regrs
+https://github.com/Genysys/substrate-erc20
+https://github.com/tangramdotdev/packages
+https://github.com/Phala-Network/phat-quickjs
+https://github.com/internet-computer-protocol/evm-rpc-canister
+https://github.com/F1rst-Unicorn/tiny-auth

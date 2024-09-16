@@ -1,0 +1,5 @@
+https://github.com/pdgilbert/eg_stm_hal
+https://github.com/Waridley/hack-and-slash
+https://github.com/intel/ztunnel
+https://github.com/chris-bratti/auth_leptos
+https://github.com/roberts-pumpurs/leptos-web-trading

@@ -1,0 +1,12 @@
+https://github.com/langjam/jam0004
+https://github.com/bonsairobo/ndcopy-rs
+https://github.com/BoxyUwU/ArcheTape
+https://github.com/2moe/hlight
+https://github.com/orlp/aoc2023
+https://github.com/flippette/chess
+https://github.com/eliminmax/eambfc-rs
+https://github.com/richchurcher/a_cloud_of_hexlings
+https://github.com/Hironha/leet-code-rs
+https://github.com/Googlefan256/ord-big-motor
+https://github.com/gabapcia/rustydb
+https://github.com/Hironha/leet-code-rs

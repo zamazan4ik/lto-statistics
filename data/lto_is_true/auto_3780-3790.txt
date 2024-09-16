@@ -1,0 +1,6 @@
+https://github.com/gitbutlerapp/gitbutler
+https://github.com/ipvm-wg/homestar
+https://github.com/andrew-chang-dewitt/hoops-app
+https://github.com/saikatdas0790/minimal-reproduction-add-agent-rs-to-cargo-leptos-project
+https://github.com/TEESDAAL/broken-auth
+https://github.com/KevinWolf254/user-authentication-leptos-actix-sqlx

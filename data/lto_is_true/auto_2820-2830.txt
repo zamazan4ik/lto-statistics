@@ -1,0 +1,11 @@
+https://github.com/DeFiCh/ain
+https://github.com/anweiss/cddl
+https://github.com/tweag/topiary-opam
+https://github.com/desbma/stfed
+https://github.com/thorio/gravel
+https://github.com/yapgeir/yapgeir
+https://github.com/ferrous-systems/stm32-rustls
+https://github.com/pimox/rust
+https://github.com/earthcomputing/CellAgent
+https://github.com/lquenti/walky
+https://github.com/pimox/rust

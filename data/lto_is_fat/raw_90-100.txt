@@ -1,0 +1,13 @@
+https://github.com/naim94a/lumen
+https://github.com/sisshiki1969/ruruby
+https://github.com/Norost/nrofs
+https://github.com/Nugine/simdutf-rs
+https://github.com/nonamescm/yex-lang
+https://github.com/marigold-dev/tuna
+https://github.com/linkerd/linkerd-failover
+https://github.com/icp1994/fentrail
+https://github.com/superwhiskers/iso
+https://github.com/eluv-io/elv-encryption
+https://github.com/jaroel/apparent
+https://github.com/mpyle101/aoc-rs
+https://github.com/silvanshade/rust-ocaml-dyn

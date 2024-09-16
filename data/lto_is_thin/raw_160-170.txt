@@ -1,0 +1,16 @@
+https://github.com/analog-hors/cozy-chess
+https://github.com/dfsnow/aoc
+https://github.com/andyyu2004/bit
+https://github.com/Slowki/kubeless-rs
+https://github.com/tux3/aegis
+https://github.com/Desdaemon/polars_dart
+https://github.com/elshize/fsim
+https://github.com/ScottyThePilot/nebulous-fleet-generator
+https://github.com/NnsDao/nnsdao
+https://github.com/ahaoboy/rqjs
+https://github.com/Gawdl3y/Resolute
+https://github.com/DusterTheFirst/preflight
+https://github.com/langdev/rendezvous
+https://github.com/Kamino-Finance/terminator
+https://github.com/ZhangxiangHu-Ripple/Risc0-XRPL-performance-test
+https://github.com/y2kappa/liquidator-rust

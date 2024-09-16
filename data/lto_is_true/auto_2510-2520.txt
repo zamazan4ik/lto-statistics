@@ -1,0 +1,14 @@
+https://github.com/rust-bakery/nom
+https://github.com/slog-rs/slog
+https://github.com/copper-project/copper-rs
+https://github.com/memospot/memospot
+https://github.com/floneum/floneum
+https://github.com/nils-mathieu/blocks_n_stuff
+https://github.com/ut-utp/embedded-experiment
+https://github.com/pacman82/odbc2parquet
+https://github.com/lilly-lizard/bort
+https://github.com/golemfactory/ya-service-bus
+https://github.com/BlakeRain/blakerain.com
+https://github.com/static-build/procs
+https://github.com/sunkaifei/MxxShop
+https://github.com/acheronfail/i3stat

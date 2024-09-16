@@ -1,0 +1,2 @@
+https://github.com/ratatui/ratatui
+https://github.com/inyourface34456/coreutil-r

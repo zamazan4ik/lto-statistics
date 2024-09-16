@@ -1,0 +1,17 @@
+https://github.com/apache/datafusion-python
+https://github.com/moddedTechnic/lexical-core-0.7.4
+https://github.com/chrismoos/ili9486-driver
+https://github.com/hyperledger/iroha
+https://github.com/Chengcheng-S/schain
+https://github.com/hiveboardgame/hive
+https://github.com/evilsocket/nerve
+https://github.com/PawelLawrynowicz/rust-on-bare-metal
+https://github.com/stm32-rs/stm32g4xx-hal
+https://github.com/yiwen-ai/taskbase
+https://github.com/xor-bits/srs2dge
+https://github.com/apache/datafusion-ballista-python
+https://github.com/sify21/leptos-actix-middleware
+https://github.com/ivan/exastash
+https://github.com/YanLitao/Ivie
+https://github.com/westerndigitalcorporation/spdm-utils
+https://github.com/HashCash-Consultants/rs-soroban-env-oldd

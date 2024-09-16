@@ -1,0 +1,5 @@
+https://github.com/spamviech/zugkontrolle
+https://github.com/Obscurely/RustTemplate
+https://github.com/Ather23/leptos_experiments
+https://github.com/jlcanela/leptos-axum-demo
+https://github.com/meithon/kikinzoku-rs

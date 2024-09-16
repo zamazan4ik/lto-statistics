@@ -1,0 +1,5 @@
+https://github.com/holochain/holochain
+https://github.com/RaoulLuque/typing-defense
+https://github.com/DioxusLabs/docsite
+https://github.com/orangethewell/orangethewell-web
+https://github.com/tetcoin-staging/smoldot

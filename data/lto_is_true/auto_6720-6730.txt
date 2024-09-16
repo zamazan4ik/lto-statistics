@@ -1,0 +1,3 @@
+https://github.com/SoftwareMagicIT/Helpdesk
+https://github.com/Pofig1sT161/rustdesk1.2.6
+https://github.com/schleyk/rustdesk_old

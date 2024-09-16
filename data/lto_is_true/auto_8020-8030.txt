@@ -1,0 +1,2 @@
+https://github.com/stm32-rs/stm32h7xx-hal
+https://github.com/malwaredb/malwaredb-rs

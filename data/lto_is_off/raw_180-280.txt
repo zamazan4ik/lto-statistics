@@ -1,0 +1,17 @@
+https://github.com/makepad/makepad
+https://github.com/master-of-zen/Av1an
+https://github.com/rustshop/flakebox
+https://github.com/IBM/text-generation-inference
+https://github.com/nrf-rs/microbit
+https://github.com/jawadcode/unnamed-lang-parser
+https://github.com/panstromek/zebra-rs
+https://github.com/andreaTP/jnation-workshop-deck
+https://github.com/oleiade/motus
+https://github.com/bearcove/loona
+https://github.com/chrisdickinson/compilers-exercises
+https://github.com/jawadcode/stacc
+https://github.com/SkymanOne/vote-pray-love
+https://github.com/Catbert88/micro_broadcast
+https://github.com/Alexhuszagh/cross_issue416
+https://github.com/nmalisetty/hems
+https://github.com/cardbox/backend

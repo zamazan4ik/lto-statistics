@@ -1,0 +1,8 @@
+https://github.com/DeterminateSystems/nix-installer
+https://github.com/dbanks12/aztec-packages
+https://github.com/silent-rain/stm32f103-tutorial
+https://github.com/joseluis8906/rust-code
+https://github.com/kylerchin/ayn-campaign-website
+https://github.com/JoarSabel/leptos-llm-webapp
+https://github.com/liangcorp/cloud_class
+https://github.com/fatfingers23/raspberry-pico-w-embassy-template

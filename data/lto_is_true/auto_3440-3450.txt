@@ -1,0 +1,12 @@
+https://github.com/rapiz1/rathole
+https://github.com/LDeakin/zarrs_tools
+https://github.com/tvmlabs/tvm-sdk
+https://github.com/rhiaqey/producers
+https://github.com/Arunscape/mcpanel
+https://github.com/atomCAD/atomCAD
+https://github.com/TinkerBoard-Android/rockchip-android-external-rust-crates-nom
+https://github.com/Xobtah/hermes
+https://github.com/S6C/MeterChecker-Sylvia-2024
+https://github.com/lucas-montes/yap
+https://github.com/msft-mirror-aosp/platform.external.rust.crates.nom
+https://github.com/raphaelcohn/olympus-xmp

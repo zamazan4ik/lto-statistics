@@ -1,0 +1,7 @@
+https://github.com/mthom/scryer-prolog
+https://github.com/thebracket/ArdanUltimateRust-5Days
+https://github.com/bottlerocket-os/twoliter
+https://github.com/CaptianFluffy100/MCMP
+https://github.com/darrenpicard25/home_server
+https://github.com/jonlamb-gh/stm32f4-rtic-renode
+https://github.com/AnthonyMichaelTDM/mecomp

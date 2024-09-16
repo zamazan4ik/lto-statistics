@@ -1,0 +1,8 @@
+https://github.com/vectorgrp/xcp-lite
+https://github.com/ejpcmac/rust-template
+https://github.com/Al-Kindi-0/mono
+https://github.com/FyraLabs/lleyton
+https://github.com/dovakin0007/Llama_rust
+https://github.com/sebastienrousseau/hsh
+https://github.com/Dirout/dokkoo
+https://github.com/ghe0/leptos-mongodb-example

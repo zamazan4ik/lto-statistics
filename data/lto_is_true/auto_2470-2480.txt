@@ -1,0 +1,17 @@
+https://github.com/maciejhirsz/logos
+https://github.com/cswinter/LocustDB
+https://github.com/DataDog/libdatadog
+https://github.com/orhun/menyoki
+https://github.com/kaisawind/rain-effect
+https://github.com/ma3332/FIDEC_ICP
+https://github.com/Yrrrrrf/logic_tracer
+https://github.com/eva-ics/eva4
+https://github.com/HashCash-Consultants/rs-soroban-sdk-oldd
+https://github.com/untungaji1/cobacoba
+https://github.com/srdtrk/cw-ibc-lite
+https://github.com/booiris/lark_bot_sdk
+https://github.com/bitfinity-network/oracular
+https://github.com/CXWorks/rug-ae
+https://github.com/Cubelrti/sm-crypto-wasm
+https://github.com/ShettySach/CandleMist
+https://github.com/oasislabs/oasis-chain

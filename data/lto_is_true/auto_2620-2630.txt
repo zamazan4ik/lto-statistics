@@ -1,0 +1,7 @@
+https://github.com/worldcoin/orb-software
+https://github.com/lukexor/tetanes
+https://github.com/andrewhickman/lanquetta
+https://github.com/ITesserakt/Kodept
+https://github.com/AdamISZ/aut-ct
+https://github.com/KompleTeam/komple-framework
+https://github.com/stellar/rs-soroban-env

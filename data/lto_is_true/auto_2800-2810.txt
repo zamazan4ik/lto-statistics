@@ -1,0 +1,15 @@
+https://github.com/hopinc/cli
+https://github.com/riskable/riskeyboard70
+https://github.com/lpc55/lpc55-host
+https://github.com/EdJoPaTo/mqtt2influxdb
+https://github.com/dustlang/dustup
+https://github.com/Phala-Network/substrate-evm_account_mapping
+https://github.com/Al-Kindi-0/mono
+https://github.com/ValgulNecron/kasuki
+https://github.com/ratal/mdfr
+https://github.com/cycle-five/cracktunes
+https://github.com/mikedotexe/i2-access-contracts
+https://github.com/cardigan1008/panic4r
+https://github.com/skalimoi/OpenBTMapGen
+https://github.com/chuan-xu/coral
+https://github.com/substrate-asia/hackathon-2023-winter

@@ -1,0 +1,4 @@
+https://github.com/rhysnewell/Lorikeet
+https://github.com/purung/leptos-ssr-dev-template
+https://github.com/johannesmaess/anki
+https://github.com/j4ger/forged-art

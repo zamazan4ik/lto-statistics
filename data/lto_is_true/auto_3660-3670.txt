@@ -1,0 +1,10 @@
+https://github.com/tramhao/termusic
+https://github.com/kingdee/KdDeskTC
+https://github.com/BitBoxSwiss/bitbox-api-rs
+https://github.com/cfraga/leptos-learn-to-read
+https://github.com/zapproject/prices
+https://github.com/midoshouse/midos.house
+https://github.com/zackartz/compcraf
+https://github.com/rohankumardubey/maplibre-rs
+https://github.com/vertec-io/async_bevy_web
+https://github.com/Rayato159/cat-app-leptos-demo

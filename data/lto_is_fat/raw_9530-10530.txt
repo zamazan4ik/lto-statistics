@@ -1,0 +1,11 @@
+https://github.com/foundry-rs/foundry
+https://github.com/Astrabit-ST/Luminol
+https://github.com/autonomys/space-acres
+https://github.com/substrate-asia/hackathon-2023-summer
+https://github.com/achimcc/substrate
+https://github.com/XP-NETWORK/substrate-based-node
+https://github.com/vinelabs/vine-substrate
+https://github.com/substrate-asia/hackathon-2023-summer
+https://github.com/storm-software/reaper
+https://github.com/GitVerse-Web3/PIVOT
+https://github.com/karanvir12/substrate36

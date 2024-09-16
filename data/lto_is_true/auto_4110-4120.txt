@@ -1,0 +1,7 @@
+https://github.com/NiceneNerd/UKMM
+https://github.com/wzzju/leptos-app-template
+https://github.com/florianhartung/rust-fullstack-template
+https://github.com/NotAFlyingGoose/mr-modpack
+https://github.com/bryanmylee/rust-leptos-llama
+https://github.com/james-pike/rust-axum-leptos
+https://github.com/akaia-io/nova

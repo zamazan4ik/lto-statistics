@@ -1,0 +1,16 @@
+https://github.com/regolith-labs/ore-cli
+https://github.com/lsk569937453/code-magic-public
+https://github.com/clowzed/sero
+https://github.com/ep-infosec/33_apache_arrow-datafusion-python
+https://github.com/klangner/turn-based-roguelike
+https://github.com/standardweb3/standard-cosmwasm
+https://github.com/a-panda-miner/arena2d
+https://github.com/ClickHouse/rust_vendor
+https://github.com/delapuente/qasmsim
+https://github.com/SundaeSwap-finance/lucid-sundae-fork
+https://github.com/alerque/git-warp-time
+https://github.com/mikedotexe/cw-boolean-contract
+https://github.com/csov/orions-den
+https://github.com/AryanpurTech/BlueEngineTemplate
+https://github.com/Draculente/asteroids
+https://github.com/standardweb3/standard-cosmwasm-hackatom2022

@@ -1,0 +1,2 @@
+https://github.com/ErikBot42/discrete-logic-simulator
+https://github.com/KOEGlike/music_jam

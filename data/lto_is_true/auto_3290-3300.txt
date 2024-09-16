@@ -1,0 +1,8 @@
+https://github.com/dswd/vpncloud
+https://github.com/TinkerBoard-Android/rockchip-android-external-rust-crates-combine
+https://github.com/couchbaselabs/couchbase-shell
+https://github.com/msft-mirror-aosp/platform.external.rust.crates.combine
+https://github.com/buydata/frontend-server-leptos
+https://github.com/RedstoneWizard08/mayhem
+https://github.com/oleonardolima/arti
+https://github.com/lindera/lindera

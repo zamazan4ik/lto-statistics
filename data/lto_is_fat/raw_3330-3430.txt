@@ -1,0 +1,15 @@
+https://github.com/BurntSushi/ripgrep
+https://github.com/lambdaclass/cairo-vm
+https://github.com/FFFFFFFXXXXXXX/league_record
+https://github.com/pola-rs/r-polars
+https://github.com/trunk-rs/trunk
+https://github.com/gamebooster/soundboard
+https://github.com/chipnertkj/chipbox
+https://github.com/kleinesfilmroellchen/spcasm
+https://github.com/raycast/ripgrep
+https://github.com/U007D/qst_app
+https://github.com/drogue-iot/drogue-device
+https://github.com/forky-anonymized/forky
+https://github.com/MrGunflame/big-gaming
+https://github.com/oogasawa/apptainer_emacs28
+https://github.com/BurntSushi/ripgrep-release-test

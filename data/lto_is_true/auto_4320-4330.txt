@@ -1,0 +1,3 @@
+https://github.com/eclipse-iceoryx/iceoryx2
+https://github.com/aughey/badge_system
+https://github.com/Sniezka1927/inv-bug

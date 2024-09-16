@@ -1,0 +1,8 @@
+https://github.com/marc2332/freya
+https://github.com/zcash/librustzcash
+https://github.com/eclipse-iceoryx/iceoryx2
+https://github.com/lambdaclass/cairo_native
+https://github.com/lukehsiao/find-the-password
+https://github.com/Eliasin/ferris-the-waiter
+https://github.com/leptos-rs/start-aws
+https://github.com/nikita-skobov/aws_cfn_type_gen

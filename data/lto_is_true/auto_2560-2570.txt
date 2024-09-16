@@ -1,0 +1,7 @@
+https://github.com/slightlyoutofphase/staticvec
+https://github.com/sorairolake/qrtool
+https://github.com/attila-lin/Bzll
+https://github.com/jonastar/vroom
+https://github.com/ollej/rusty-aquarium
+https://github.com/kyleect/locks
+https://github.com/bajins/desktop-wallpaper-rust

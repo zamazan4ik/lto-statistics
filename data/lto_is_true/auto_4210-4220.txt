@@ -1,0 +1,6 @@
+https://github.com/kimono-koans/httm
+https://github.com/claudiofsr/join_with_assignments
+https://github.com/TTTiNNNy/orientation_controller
+https://github.com/sebastienrousseau/vrd
+https://github.com/tpalinski/bsk-2024
+https://github.com/BLucky-gh/dotfiles

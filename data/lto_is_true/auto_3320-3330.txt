@@ -1,0 +1,13 @@
+https://github.com/eza-community/eza
+https://github.com/redox-os/ion
+https://github.com/mellowagain/gitarena
+https://github.com/alex-nordin/webbed_site
+https://github.com/noobmastercn/leptos-ssr-template
+https://github.com/rust-lang/rustc-perf
+https://github.com/thebashpotato/egui-dashboard-template
+https://github.com/woelper/oculante
+https://github.com/cargo-prebuilt/cargo-prebuilt
+https://github.com/neotheprogramist/leptos-template
+https://github.com/uutils/util-linux
+https://github.com/AGL-Electronics/Lumin-Desktop
+https://github.com/hevz/rust-bench

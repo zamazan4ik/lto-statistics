@@ -1,0 +1,8 @@
+https://github.com/leptos-rs/leptos
+https://github.com/lizhanhui/elastic-stream
+https://github.com/NiklasEi/leptos-ssg-with-islands
+https://github.com/kisChang/rust-pico
+https://github.com/vikyathshirva/whati8
+https://github.com/t4p-community/20240703_build-web-apps-with-rust-and-leptos
+https://github.com/rotkonetworks/polka.run
+https://github.com/Veercodeprog/leptos-web

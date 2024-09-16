@@ -1,0 +1,8 @@
+https://github.com/pamburus/hl
+https://github.com/akanalytics/odonata
+https://github.com/BSFishy/sanders
+https://github.com/cestef/rwalk
+https://github.com/artumino/modbus-mqtt-bridge
+https://github.com/CleverCloud/clever-operator
+https://github.com/dsully/released
+https://github.com/jasl/research_node

@@ -1,0 +1,6 @@
+https://github.com/alttch/busrt
+https://github.com/anoma/ethereum-bridge-e2e-tests
+https://github.com/TEEs-projects/Time-manipulation-Attack
+https://github.com/tetcoin/openvapory
+https://github.com/fateh321/openethlmpt
+https://github.com/chainkloud/openethereum

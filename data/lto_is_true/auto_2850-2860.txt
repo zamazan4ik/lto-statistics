@@ -1,0 +1,7 @@
+https://github.com/atsamd-rs/atsamd
+https://github.com/WuerthPhoenix/tornado
+https://github.com/NomicFoundation/edr
+https://github.com/mikedotexe/i2-access-contracts
+https://github.com/thou-vow/al-azif
+https://github.com/sperky7933/vmstation
+https://github.com/kquinsland/bthome-presence

@@ -1,0 +1,10 @@
+https://github.com/ajeetdsouza/loxcraft
+https://github.com/stellar/stellar-cli
+https://github.com/dustlang/dustc-perf
+https://github.com/chitoku-k/edgerouter-exporter
+https://github.com/cryptidtech/oberon
+https://github.com/LyonSyonII/hunt-rs
+https://github.com/mithril-security/exrs-sgx
+https://github.com/shantanu-hashcash/rs-soroban-sdk
+https://github.com/sentialytic/reapears
+https://github.com/reemus-dev/gitnr

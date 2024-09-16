@@ -1,0 +1,8 @@
+https://github.com/johannesvollmer/exrs
+https://github.com/akanalytics/odonata
+https://github.com/Gourab-Ghosh/timecat-rs
+https://github.com/KillTheMule/nvim-rs
+https://github.com/rohankumardubey/bat
+https://github.com/secutils-dev/retrack
+https://github.com/leptos-community/csr-example-building-UIs-with-leptos
+https://github.com/olegnet/chrome-ext-learners-dictionary

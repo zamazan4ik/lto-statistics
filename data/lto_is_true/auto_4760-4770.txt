@@ -1,0 +1,3 @@
+https://github.com/rhysnewell/rosella
+https://github.com/buffdb/buffdb
+https://github.com/Houski/leptos_07_beta_bug_repros

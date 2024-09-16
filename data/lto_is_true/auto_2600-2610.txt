@@ -1,0 +1,9 @@
+https://github.com/cross-rs/cross
+https://github.com/risc0/risc0
+https://github.com/Whist-Team/Whist-Browser
+https://github.com/Cogitri/Health
+https://github.com/2lambda123/tock
+https://github.com/GaoYeGithub/Rust-Help-me
+https://github.com/rpcpool/yellowstone-grpc-mango
+https://github.com/OlofBlomqvist/marlowe-rs
+https://github.com/Jasonxlu/tock-life

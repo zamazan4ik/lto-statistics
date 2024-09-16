@@ -1,0 +1,7 @@
+https://github.com/stm32-rs/stm32f4xx-hal
+https://github.com/Cardinal-Cryptography/aleph-node
+https://github.com/frequency-chain/frequency
+https://github.com/smirnovvvasyl/aleph-node-lib
+https://github.com/shamasrehan/frontier-tracing
+https://github.com/SubstrateGaming/Substrate.Hexalem.Node
+https://github.com/aleph-zero-foundation/aleph-node

@@ -1,0 +1,6 @@
+https://github.com/leptos-rs/leptos
+https://github.com/chvancooten/NimPlant
+https://github.com/kottz/teotile
+https://github.com/TinkerBoard-Android/rockchip-android-external-rust-crates-clap
+https://github.com/maccam912/ledclock
+https://github.com/msft-mirror-aosp/platform.external.rust.crates.clap

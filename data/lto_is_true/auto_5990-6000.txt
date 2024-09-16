@@ -1,0 +1,2 @@
+https://github.com/Bennett-Petzold/backed_data
+https://github.com/jbesraa/ldk-node-desktop

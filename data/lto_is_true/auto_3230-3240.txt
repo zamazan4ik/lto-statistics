@@ -1,0 +1,7 @@
+https://github.com/MichaelMcCulloch/WikiDex
+https://github.com/chiro2001/rvcd
+https://github.com/jaydh/jaydanhoward
+https://github.com/ctron/drogue-thing
+https://github.com/thebashpotato/ultimate-tauri-template
+https://github.com/unitsoftrover/diesel-odbc
+https://github.com/MaaXYZ/MaaResonance

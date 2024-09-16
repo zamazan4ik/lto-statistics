@@ -1,0 +1,7 @@
+https://github.com/orcawhisperer/portfolio-leptos
+https://github.com/spamviech/zugkontrolle
+https://github.com/kingdee/KdDeskTC
+https://github.com/lfrancke/leptonic-ssr-workspace
+https://github.com/seanaye/axum-js-fetch
+https://github.com/ColinWu0403/Rust-Workshop
+https://github.com/itpofy2024o/update-your-kit

@@ -1,0 +1,16 @@
+https://github.com/RWTH-OS/eduOS-rs
+https://github.com/isaacholt100/bnum
+https://github.com/welpo/git-sumi
+https://github.com/akka/akka-edge-rs
+https://github.com/mkrueger/icy_tools
+https://github.com/katyo/oboe-rs
+https://github.com/kellerkindt/bluepill_sensor
+https://github.com/3scale/threescale-wasm-auth
+https://github.com/picture-pro/mono
+https://github.com/heytdep/tweaked-rs-soroban-sdk
+https://github.com/Exotic0015/exocdn
+https://github.com/VirxEC/rlbot_gui_rust
+https://github.com/moses-sun/mathru
+https://github.com/redstrate/Physis
+https://github.com/Niashi24/bevy_gizmo_jam
+https://github.com/spotlesstofu/trustee-vendor

@@ -1,0 +1,10 @@
+https://github.com/simd-lite/simd-json
+https://github.com/docknetwork/crypto-wasm
+https://github.com/MoonKraken/hotblog
+https://github.com/jorbush/rusty-ai-chat
+https://github.com/osmano807/hydration-bug
+https://github.com/SadraMoh/music-trainer
+https://github.com/taiki-e/cargo-no-dev-deps
+https://github.com/gpabois/rs-signuis
+https://github.com/shtolfensie/cookie
+https://github.com/dxps/leptos_playground

@@ -1,0 +1,12 @@
+https://github.com/nushell/nushell
+https://github.com/openobserve/openobserve
+https://github.com/10XGenomics/enclone
+https://github.com/Voultapher/sort-research-rs
+https://github.com/th-duvanel/nu_pack
+https://github.com/kanidm/kanidm
+https://github.com/th-duvanel/nu_pack
+https://github.com/nimiq/core-rs-albatross
+https://github.com/ZhongQiyu/datawhale-self-learning
+https://github.com/massimoalbarello/internet-computer-subnet
+https://github.com/textileio/builtin-actors
+https://github.com/sp1-patches/reth

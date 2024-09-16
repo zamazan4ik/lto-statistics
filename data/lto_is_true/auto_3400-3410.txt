@@ -1,0 +1,9 @@
+https://github.com/wasmerio/wasmer-js
+https://github.com/KonishchevDmitry/investments
+https://github.com/quartiq/booster
+https://github.com/pillaryzc/leptos-project
+https://github.com/ricardoalmeida/leptos-axum-app
+https://github.com/art-santos/language-database-benchmark
+https://github.com/AMTSupport/tools
+https://github.com/vertec-io/async_bevy_web
+https://github.com/sjud/capture-rs

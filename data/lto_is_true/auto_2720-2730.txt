@@ -1,0 +1,8 @@
+https://github.com/topgrade-rs/topgrade
+https://github.com/0LNetworkCommunity/carpe
+https://github.com/Artem1199/Centennial
+https://github.com/mitmproxy/mitmproxy_rs
+https://github.com/mre/fungi
+https://github.com/SteelSavant/deck-ds
+https://github.com/UPB-FILS-SdE2/morse-starter
+https://github.com/jleocan773/escenario2

@@ -1,0 +1,13 @@
+https://github.com/kubos/kubos
+https://github.com/rust-dd/tryrust.org
+https://github.com/Aidan-Chelig/leptos-portfolio
+https://github.com/protain/leptos-start
+https://github.com/gaucho-labs/leptos-query
+https://github.com/korken89/leptos-test
+https://github.com/teneburu/reproduce_hydration_bug
+https://github.com/spxctreofficial/kanagawa-login-rs
+https://github.com/iplus26/dontwork
+https://github.com/dragoncodes/dragoncodes.dev
+https://github.com/klautcomputing/leptos-actix-workspace
+https://github.com/landoty/bsim-eval
+https://github.com/spencerleemeredith/LR_Plug_Play

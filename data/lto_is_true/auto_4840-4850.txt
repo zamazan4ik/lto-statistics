@@ -1,0 +1,2 @@
+https://github.com/martsec/daily-rust
+https://github.com/QEDProtocol/ark-swiftness

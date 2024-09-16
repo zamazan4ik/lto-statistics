@@ -1,0 +1,17 @@
+https://github.com/orlp/glidesort
+https://github.com/Voultapher/sort-research-rs
+https://github.com/weikengchen/zexe-with-to-constraint-field
+https://github.com/drxm1/bevy-project-template-nixos-wayland
+https://github.com/Enet4/timely-defuse
+https://github.com/tediou5/im-gateway
+https://github.com/mpajkowski/natord_pg
+https://github.com/xkevio/kevboy
+https://github.com/caengen/mp-arpg-bevy
+https://github.com/shssoichiro/mp4batch
+https://github.com/Woife5/kopfrechner
+https://github.com/znschaffer/waveschiesse
+https://github.com/aridder/zkbiometric
+https://github.com/next-rs/yew-i18n
+https://github.com/weikengchen/zexe_with_prepared_verifiers
+https://github.com/weikengchen/new_zexe_for_documentation_search
+https://github.com/xvrqt/echo

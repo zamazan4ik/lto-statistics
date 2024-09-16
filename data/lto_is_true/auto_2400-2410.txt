@@ -1,0 +1,12 @@
+https://github.com/shshemi/tabiew
+https://github.com/waxz/rs_robot
+https://github.com/Linus-Mussmaecher/rucola
+https://github.com/AdinAck/Headlights-Firmware
+https://github.com/Enet4/simple-dicom-viewer
+https://github.com/BogdanOlar/efm32pg1b-hal
+https://github.com/attackevals/ael
+https://github.com/ajaincdsc/zoxide
+https://github.com/mikedotexe/i2-access-contracts
+https://github.com/fireyy/caricare
+https://github.com/jeanmanguy/spideog
+https://github.com/gitseti/hmq-tui

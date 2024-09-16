@@ -1,0 +1,9 @@
+https://github.com/DioxusLabs/blitz
+https://github.com/floneum/floneum-site
+https://github.com/iSolate77/uni_leptos
+https://github.com/devg1120/_rust_example
+https://github.com/t4p-community/20240703_build-web-apps-with-rust-and-leptos
+https://github.com/ankarhem/blog
+https://github.com/BotDogs4645/botdogs-scout
+https://github.com/ALEZ-DEV/Celica-moe
+https://github.com/Veercodeprog/leptos-web

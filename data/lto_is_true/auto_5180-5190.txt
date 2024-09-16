@@ -1,0 +1,6 @@
+https://github.com/NJUPT-SAST/rsjudge
+https://github.com/niroosh1997/gst-plugins-rs-min-fork
+https://github.com/tecsnews/rustdesk
+https://github.com/ActuallyHappening/YMap
+https://github.com/nortio/gst-plugins-rs
+https://github.com/doesnotexist/gst-plugins-rs

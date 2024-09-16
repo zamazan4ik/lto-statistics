@@ -1,0 +1,4 @@
+https://github.com/absw/loadstone
+https://github.com/alucryd/oxyromon
+https://github.com/NicolasVidal/AoC_2023
+https://github.com/jtsagata/places-cli

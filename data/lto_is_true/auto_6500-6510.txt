@@ -1,0 +1,3 @@
+https://github.com/GaloisInc/swanky
+https://github.com/software-mansion/scarb
+https://github.com/Labs22/BlackServerOS

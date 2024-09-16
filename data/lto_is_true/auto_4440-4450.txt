@@ -1,0 +1,5 @@
+https://github.com/matrix-org/matrix-rust-sdk
+https://github.com/spamviech/zugkontrolle
+https://github.com/mobilecoinofficial/libmobilecoin
+https://github.com/chronicled/parity
+https://github.com/spamviech/zugkontrolle

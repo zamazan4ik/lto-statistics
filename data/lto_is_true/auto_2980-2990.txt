@@ -1,0 +1,7 @@
+https://github.com/rust-lang/rust
+https://github.com/sebadob/nioca
+https://github.com/roberts-pumpurs/supabase-rs-utils
+https://github.com/trysthout/zmate
+https://github.com/Meigs2/Axis
+https://github.com/sailfishos-mirror/rust
+https://github.com/clear-crab/clear-crab

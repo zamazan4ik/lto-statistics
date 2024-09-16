@@ -1,0 +1,13 @@
+https://github.com/pascalkuthe/OpenVAF
+https://github.com/taotien/NOflake
+https://github.com/thesimplekid/phoenixd-rs
+https://github.com/rossdylan/homelab-dns
+https://github.com/Rhelvetican/rsvancify
+https://github.com/leo60228/upd8r
+https://github.com/yinho999/kuber
+https://github.com/ardura/Interleaf
+https://github.com/rustbunker/garage
+https://github.com/thesimplekid/lnbits-rs
+https://github.com/jawadcode/todoapi
+https://github.com/ardura/Scrollscope
+https://github.com/AOx0/temple

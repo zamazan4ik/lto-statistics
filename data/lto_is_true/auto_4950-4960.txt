@@ -1,0 +1,2 @@
+https://github.com/fornwall/wgpu-game-of-life
+https://github.com/purung/leptos-ssr-dev-template

@@ -1,0 +1,7 @@
+https://github.com/hickory-dns/hickory-dns
+https://github.com/Auxnon/Petrichor64
+https://github.com/rustic-rs/rustic_core
+https://github.com/code-423n4/2024-08-axelar-network
+https://github.com/albertxu216/proc_image2.0
+https://github.com/mdegans/weave
+https://github.com/deciduously/deciduously-com-sunfish

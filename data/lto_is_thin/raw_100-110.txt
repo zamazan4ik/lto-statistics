@@ -1,0 +1,16 @@
+https://github.com/oasisprotocol/cipher-paratime
+https://github.com/aevyrie/rays
+https://github.com/Aleksbgbg/opencraft
+https://github.com/PolishRoute/thigass
+https://github.com/kek/swayr
+https://github.com/psvri/rust-simd-sort
+https://github.com/quininer/titso
+https://github.com/elmjune/chip8
+https://github.com/Kamino-Finance/scope
+https://github.com/kil0meters/remu
+https://github.com/justanotherdot/qc
+https://github.com/valida-xyz/benchmarks
+https://github.com/project-cruet/cruet
+https://github.com/lukad/adventofcode
+https://github.com/audacioustux/scan-automate
+https://github.com/Elixir-Games-XYZ/scope

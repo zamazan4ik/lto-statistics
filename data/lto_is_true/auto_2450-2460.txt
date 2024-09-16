@@ -1,0 +1,17 @@
+https://github.com/casey/just
+https://github.com/ajeetdsouza/zoxide
+https://github.com/Cosmo-CoDiOS/codid
+https://github.com/ShadowBlip/InputPlumber
+https://github.com/HeyZoos/ColonyGame
+https://github.com/smallcloudai/refact-lsp
+https://github.com/nix-community/nix-init
+https://github.com/terry-u16/rco-contest-2017-qual
+https://github.com/maxastyler/pico-matrix-controller
+https://github.com/NibiruChain/cw-nibiru
+https://github.com/alt-research/subway
+https://github.com/a-kenji/flake-edit
+https://github.com/RibirX/Ribir
+https://github.com/qompassai/Equator
+https://github.com/Maneren/file-share-rs
+https://github.com/HashCash-Consultants/rs-soroban-env-old1-20.3.0
+https://github.com/qompassai/WaveRunner

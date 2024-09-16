@@ -1,0 +1,2 @@
+https://github.com/evilsocket/legba
+https://github.com/patefacio/fin_model

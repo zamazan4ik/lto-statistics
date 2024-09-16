@@ -1,0 +1,8 @@
+https://github.com/leptos-rs/leptos
+https://github.com/editso/fuso
+https://github.com/Devolutions/devolutions-gateway
+https://github.com/gelove/yew-ethers
+https://github.com/Icelk/std-dev
+https://github.com/josephg/egwalker-paper
+https://github.com/thomcc/termpal
+https://github.com/BlinkyStitt/musical-lights-rs

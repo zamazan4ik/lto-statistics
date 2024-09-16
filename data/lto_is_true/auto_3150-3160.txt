@@ -1,0 +1,4 @@
+https://github.com/worldcoin/semaphore-rs
+https://github.com/nuno1212s/testing-grounds
+https://github.com/AbdelH2O/bust-the-ghost
+https://github.com/theotherjimmy/dmote-fw

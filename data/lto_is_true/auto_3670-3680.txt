@@ -1,0 +1,8 @@
+https://github.com/tweag/topiary
+https://github.com/WhiteSponge/rust_dashboard_app
+https://github.com/valen20Chx/leptos-file-explorer
+https://github.com/Rayato159/cat-app-leptos-demo
+https://github.com/camperking/leptosaxum
+https://github.com/secretarybird97/leptos-template
+https://github.com/AmineDiro/docvec
+https://github.com/vertec-io/async_bevy_web

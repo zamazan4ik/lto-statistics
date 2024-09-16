@@ -1,0 +1,17 @@
+https://github.com/mullvad/mullvadvpn-app
+https://github.com/nautechsystems/nautilus_trader
+https://github.com/philipdaquin/fullstack-movie-streaming-platform
+https://github.com/Xudong-Huang/may_postgres
+https://github.com/White-Whale-Defi-Platform/white-whale-core
+https://github.com/tidelabs/tidechain
+https://github.com/interstellarfrog/interstellar
+https://github.com/RustAudio/rust-lv2
+https://github.com/chipsenkbeil/distant
+https://github.com/nekoharuyuki/WebGame
+https://github.com/Spartan2909/continuate
+https://github.com/Jelmerta/Kloenk
+https://github.com/amascia-gg/test_sca_scan
+https://github.com/dyn-art/monorepo
+https://github.com/tablelandnetwork/basin-provider
+https://github.com/kylebarron/arrow-wasm
+https://github.com/archeoss/bmstu-ppo-6th-sem

@@ -1,0 +1,9 @@
+https://github.com/redox-os/ion
+https://github.com/Cykooz/fast_image_resize
+https://github.com/mellowagain/gitarena
+https://github.com/samuelhnrq/spotr
+https://github.com/kennytm/dbgen
+https://github.com/rust-lang/rustc-perf
+https://github.com/dusk-phantom/duskphantom
+https://github.com/pimox/rust
+https://github.com/hevz/rust-bench

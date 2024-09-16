@@ -1,0 +1,6 @@
+https://github.com/leptos-rs/leptos
+https://github.com/Phala-Network/phala-blockchain
+https://github.com/rohankumardubey/edgedb-cli
+https://github.com/thebino/leptos-gallery
+https://github.com/LilDojd/gabioinf
+https://github.com/VincentBerthier/leptos-repro

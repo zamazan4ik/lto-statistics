@@ -1,0 +1,16 @@
+https://github.com/UoB-HPC/BabelStream
+https://github.com/polarmutex/beancount-language-server
+https://github.com/webb-tools/protocol-substrate
+https://github.com/hionnode/Website
+https://github.com/bytemaker-io/log-parser
+https://github.com/tung/corics-quest
+https://github.com/NiseVoid/ploc-bvh
+https://github.com/n0emo/hyperclip
+https://github.com/caengen/snek-snaks
+https://github.com/tuzijun111/halo2_zk_gadgets
+https://github.com/mistodon/jamjar
+https://github.com/deepankarsharma/dataspace
+https://github.com/7ka-Hiira/ccid-tools
+https://github.com/Hironha/rina
+https://github.com/fraterenz/ecdna-evo
+https://github.com/Weedarlol/Master

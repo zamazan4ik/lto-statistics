@@ -1,0 +1,2 @@
+https://github.com/redgold-io/redgold
+https://github.com/nescampos/xion_dao_contracts

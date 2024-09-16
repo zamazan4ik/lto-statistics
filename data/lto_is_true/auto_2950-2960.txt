@@ -1,0 +1,9 @@
+https://github.com/kata-containers/kata-containers
+https://github.com/Beastwick18/nyaa
+https://github.com/nexus-xyz/nexus-zkvm
+https://github.com/SpikeHD/Dorion
+https://github.com/bitcoinppl/cove
+https://github.com/trezor/trezor-firmware
+https://github.com/oldrev/edgelink
+https://github.com/blockchain-etl/etl-rust
+https://github.com/KacperJarocki/wifi_scanner

@@ -1,0 +1,7 @@
+https://github.com/scottlamb/moonfire-nvr
+https://github.com/taiki-e/cargo-hack
+https://github.com/softwarearchitect817/Deno-modern-runtime-JavaScript
+https://github.com/Raphiiko/OyasumiVR
+https://github.com/LechevSpace/embassy-pico-template
+https://github.com/yyassif/rustic-ai
+https://github.com/kantum/ai-chat

@@ -1,0 +1,8 @@
+https://github.com/avast/yari
+https://github.com/aalekhpatel07/text-cleaner
+https://github.com/Demindiro/nora_ssh
+https://github.com/kamirr/lmang
+https://github.com/ckatsak/libhwloc2-rs
+https://github.com/dalamud/dalamud
+https://github.com/circles-png/pigame
+https://github.com/3c7/yari-macos-arm

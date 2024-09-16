@@ -1,0 +1,14 @@
+https://github.com/sile-typesetter/sile
+https://github.com/jasonish/evebox
+https://github.com/STCLab-Inc/wave-autoscale
+https://github.com/EdJoPaTo/project-below
+https://github.com/KompleTeam/komple-framework
+https://github.com/wynddao/wynddao
+https://github.com/huangsusjtu/Perseus
+https://github.com/AstroTechies/unrealmodding
+https://github.com/cardigan1008/panic4r
+https://github.com/archeoss/bmstu-db-course-6th-sem
+https://github.com/tock/tock-cheri-old
+https://github.com/nicolasavru/kayaknav
+https://github.com/jkelleyrtp/dw1000-rs
+https://github.com/my-own-web-services/mows

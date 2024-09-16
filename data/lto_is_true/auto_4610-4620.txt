@@ -1,0 +1,3 @@
+https://github.com/ensnare-org/ensnare-v1
+https://github.com/spamviech/zugkontrolle
+https://github.com/deep-gaurav/synced-crt

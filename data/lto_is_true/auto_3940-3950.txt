@@ -1,0 +1,5 @@
+https://github.com/leahjia/llama
+https://github.com/sebadob/nioca-client
+https://github.com/o0Ignition0o/pico-w
+https://github.com/stutxo/rain
+https://github.com/x04/shuttle-leptos

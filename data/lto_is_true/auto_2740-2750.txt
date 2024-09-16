@@ -1,0 +1,13 @@
+https://github.com/epi052/feroxbuster
+https://github.com/maplibre/maplibre-rs
+https://github.com/cryptaliagy/tomlq
+https://github.com/yiwen-ai/jarvis
+https://github.com/phyber/jail_exporter
+https://github.com/hatoo/oha-release-test
+https://github.com/uutils/login
+https://github.com/mjwells2002/pictochat-rs
+https://github.com/avacore1337/OneLife
+https://github.com/xianrenjituan/aliyundrive-webdav
+https://github.com/Srylax/subuidless
+https://github.com/edgeandnode/gateway
+https://github.com/Kneelawk/neonet2

@@ -1,0 +1,11 @@
+https://github.com/eclipse-zenoh-flow/zenoh-flow
+https://github.com/night-crawler/sensor-hub-ble
+https://github.com/redstone-network/pmail-node
+https://github.com/jacobrosenthal/puck-rs
+https://github.com/redstone-network/emergency-response-node
+https://github.com/kirillbobyrev/pabi
+https://github.com/nicopap/cuicui_layout
+https://github.com/AndreaLaGrotteria/block-chop
+https://github.com/redstone-network/redstone-node
+https://github.com/huub-solver/huub
+https://github.com/substrate-asia/hackathon-2022-winter

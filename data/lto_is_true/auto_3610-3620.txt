@@ -1,0 +1,9 @@
+https://github.com/leptos-rs/start-axum
+https://github.com/BruceBrown/d3
+https://github.com/itpofy2024o/update-your-kit
+https://github.com/aughey/leptosmqtt
+https://github.com/SadraMoh/web-assembly-workshop
+https://github.com/JacobHaig/Leptest
+https://github.com/mzzfederico/emmuoviti-app
+https://github.com/Veercodeprog/bit-quest
+https://github.com/willforman/chess-engine

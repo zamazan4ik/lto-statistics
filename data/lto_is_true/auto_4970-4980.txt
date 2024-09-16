@@ -1,0 +1,5 @@
+https://github.com/rhysnewell/Lorikeet
+https://github.com/lpc-rs/lpc8xx-hal
+https://github.com/johannesmaess/anki
+https://github.com/j4ger/forged-art
+https://github.com/tellahq/gst-plugins-rs

@@ -1,0 +1,11 @@
+https://github.com/hatoo/oha
+https://github.com/atsamd-rs/atsamd
+https://github.com/o1-labs/proof-systems
+https://github.com/VirusTotal/yara-x
+https://github.com/kornelski/cargo-deb
+https://github.com/credibil-grid/wasmgrid
+https://github.com/HashCash-Consultants/soroban-cli
+https://github.com/uwe-app/app
+https://github.com/quartiq/thermostat-eem
+https://github.com/amazon-ion/ion-rust
+https://github.com/AbstractSDK/abstract

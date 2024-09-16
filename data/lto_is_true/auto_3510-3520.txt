@@ -1,0 +1,14 @@
+https://github.com/embassy-rs/embassy
+https://github.com/thaw-ui/thaw
+https://github.com/Reknij/elerp
+https://github.com/twicoder/mysurrealdb
+https://github.com/cxw620/BiliRoamingH-Server
+https://github.com/eclipse-fog05/fog05-hypervisor-native
+https://github.com/Psiprobe/Asymptote
+https://github.com/benwis/rustnation24_demo
+https://github.com/leptos-rs/start-axum-workspace
+https://github.com/anvlkv/test-leptos-axum-ydx
+https://github.com/Arthurdw/SEPA
+https://github.com/SleeplessOne1917/leptos-action-form-error-demo
+https://github.com/puzzle/tws24-fullstack-rust-examples
+https://github.com/williameliasson-dev/seaml

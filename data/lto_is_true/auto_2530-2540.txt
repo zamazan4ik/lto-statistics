@@ -1,0 +1,16 @@
+https://github.com/grafana/pyroscope-rs
+https://github.com/scpwiki/wikijump
+https://github.com/hyperion-os/hyperion
+https://github.com/jiashiwen/oss_pipe
+https://github.com/hlf20010508/transfery
+https://github.com/srinjoychakravarty/ink-contracts
+https://github.com/warp-build/warp
+https://github.com/CanvasL/bonsai-ceramic-demo
+https://github.com/ilaborie/gitmoji-rs
+https://github.com/SG60/EventSpider
+https://github.com/Zoxc/rcb
+https://github.com/balancednetwork/balanced-rust-contracts
+https://github.com/miraland-labs/ore-cli
+https://github.com/ilyadruzh/zen
+https://github.com/anjrv/ndollar_vsc_sketching
+https://github.com/Nazariglez/gamekit

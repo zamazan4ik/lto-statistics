@@ -1,0 +1,2 @@
+https://github.com/Raicuparta/rai-pal
+https://github.com/lstrojny/prometheus-weathermen

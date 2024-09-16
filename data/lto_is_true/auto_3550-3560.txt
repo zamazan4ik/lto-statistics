@@ -1,0 +1,15 @@
+https://github.com/solokeys/solo2
+https://github.com/eqlabs/pathfinder
+https://github.com/mobilecoinofficial/android-bindings
+https://github.com/versatiles-org/versatiles-rs
+https://github.com/DiscoBiscuit99/leptos-flow
+https://github.com/lynixfur/lynixca-rs-new
+https://github.com/ankarhem/leptos-nav-bug
+https://github.com/Blobfolio/channelz
+https://github.com/filament-zone/filament
+https://github.com/gqf2008/Xtask
+https://github.com/ktroach/learn-bevy
+https://github.com/Juan-LukeKlopper/straw-hat-builds
+https://github.com/mvertescher/stm32-nucleo
+https://github.com/jsoneaday/rsoneaday-blog
+https://github.com/UsithaDJay/ASK-me

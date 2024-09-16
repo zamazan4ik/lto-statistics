@@ -1,0 +1,10 @@
+https://github.com/diesel-rs/diesel
+https://github.com/makepad/makepad
+https://github.com/paradigmxyz/revmc
+https://github.com/DerickEddington/graph_safe_compare
+https://github.com/hypergonial/chat
+https://github.com/liveask/liveask
+https://github.com/ykxVK8yL5L/alist-fuse
+https://github.com/thiskevinwang/rust-webpack-app
+https://github.com/pa001024/WeYS
+https://github.com/ssrlive/v2ray-rust

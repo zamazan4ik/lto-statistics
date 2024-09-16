@@ -1,0 +1,17 @@
+https://github.com/tbillington/kondo
+https://github.com/mental32/kernel
+https://github.com/pacwrap/pacwrap
+https://github.com/Hironha/leet-code-rs
+https://github.com/2moe/testing-vm
+https://github.com/Phantomical/hamerkop
+https://github.com/Noratrieb/libuwuc
+https://github.com/GreenMine/raklib-rs
+https://github.com/justanotherdot/knifey
+https://github.com/lvillis/aqara-sdk-rust
+https://github.com/trinhminhtriet/rmrfrs
+https://github.com/wait-what/collision-test
+https://github.com/justanotherdot/scribbles
+https://github.com/Hironha/leet-code-rs
+https://github.com/heathsc/gemBS-rs
+https://github.com/eliaslfox/rust-http
+https://github.com/oxalica/nocargo

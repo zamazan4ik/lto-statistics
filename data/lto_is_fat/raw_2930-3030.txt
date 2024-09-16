@@ -1,0 +1,11 @@
+https://github.com/flxzt/rnote
+https://github.com/SwarmBotMC/SwarmBot
+https://github.com/prisma/prisma-engines
+https://github.com/varfish-org/mehari
+https://github.com/Pivot-Studio/pivot-lang
+https://github.com/flashbots/rbuilder
+https://github.com/eclipse-zenoh/zenoh-c
+https://github.com/docknetwork/dock-substrate
+https://github.com/Vrtgs/cloudflare-ddns
+https://github.com/pydantic/pydantic-core
+https://github.com/dt665m/powerbaby

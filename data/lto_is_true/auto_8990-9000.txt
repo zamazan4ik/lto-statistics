@@ -1,0 +1,2 @@
+https://github.com/Hasenfellvy/egui
+https://github.com/etri/SSI

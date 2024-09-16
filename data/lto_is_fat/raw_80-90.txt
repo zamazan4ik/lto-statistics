@@ -1,0 +1,6 @@
+https://github.com/jaroel/apparent
+https://github.com/Norost/nrofs
+https://github.com/SkyfallWasTaken/firetime
+https://github.com/icp1994/fentrail
+https://github.com/aalekhpatel07/advent-of-code-2022
+https://github.com/LayerTwo-Labs/plain

@@ -1,0 +1,2 @@
+https://github.com/splitgraph/seafowl
+https://github.com/bjones1/CodeChat_Editor

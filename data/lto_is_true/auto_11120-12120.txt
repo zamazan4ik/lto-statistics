@@ -1,0 +1,16 @@
+https://github.com/enarx/enarx
+https://github.com/kl3eo/SkyRHC
+https://github.com/0x3327/ticking-madara
+https://github.com/GaoYeGithub/Rust-Help-me
+https://github.com/dingelish/ring-sgx-test
+https://github.com/anton-sviridov/suiwei
+https://github.com/keszybz/add-determinism
+https://github.com/191220029/rust_benchmarks_1.71
+https://github.com/ajuna-network/ajuna-parachain
+https://github.com/youssef-mansor/sniffnet_os
+https://github.com/pimox/rust
+https://github.com/anton-sviridov/suiwei
+https://github.com/lwz23/scan_overunsafe
+https://github.com/anton-sviridov/retina-cli
+https://github.com/AlyamanMas/sniffnet
+https://github.com/anton-sviridov/retina-cli

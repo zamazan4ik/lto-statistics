@@ -1,0 +1,6 @@
+https://github.com/silent-rain/stm32f103-tutorial
+https://github.com/claudiofsr/rust-sped
+https://github.com/sebastienrousseau/libmake
+https://github.com/brongan/brongan.com
+https://github.com/joseluis8906/rust-code
+https://github.com/iZafor/REnizer

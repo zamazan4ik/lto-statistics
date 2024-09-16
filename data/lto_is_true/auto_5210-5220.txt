@@ -1,0 +1,3 @@
+https://github.com/Indrazar/auth-sessions-example
+https://github.com/Atila-M-Schrieber/hadijatek
+https://github.com/ChaoticOnyx/rust-g

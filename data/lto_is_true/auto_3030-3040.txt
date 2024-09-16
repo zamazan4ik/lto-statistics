@@ -1,0 +1,8 @@
+https://github.com/PaddlePaddle/VisualDL
+https://github.com/DioxusLabs/taffy
+https://github.com/Cube-OS/cubeOS
+https://github.com/uutils/acl
+https://github.com/oupson/arti
+https://github.com/kxxt/tracexec
+https://github.com/OpenByteDev/burnt-sushi
+https://github.com/super1207/redreply

@@ -1,0 +1,10 @@
+https://github.com/rossmacarthur/sheldon
+https://github.com/notation-fun/notation
+https://github.com/gourlaysama/girouette
+https://github.com/fission-codes/rust-template
+https://github.com/pykeio/ort
+https://github.com/juspay/hyperswitch-card-vault
+https://github.com/derezzedex/iced_opengl
+https://github.com/DigitaIAM/Nae-backend
+https://github.com/tuna-f1sh/cyme
+https://github.com/armoniax/amax.eva.chain

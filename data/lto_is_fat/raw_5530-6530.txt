@@ -1,0 +1,14 @@
+https://github.com/swc-project/swc
+https://github.com/microsoft/demikernel
+https://github.com/hoprnet/hoprnet
+https://github.com/madara-alliance/madara
+https://github.com/Myriad-Dreamin/typst.ts
+https://github.com/orgTestCodacy11KRepos110MB/repo-4861-darkfi
+https://github.com/LetMut1/Tento
+https://github.com/fluentlabs-xyz/fluentbase
+https://github.com/pia-foss/mobile-android-obfuscation-proxy
+https://github.com/Lisprez/so_stupid_search
+https://github.com/Systemcluster/kitoken
+https://github.com/girlbossceo/vaultwarden
+https://github.com/apache/incubator-teaclave-crates
+https://github.com/nodejs/amaro

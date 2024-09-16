@@ -1,0 +1,9 @@
+https://github.com/JuliaLang/juliaup
+https://github.com/axelarnetwork/axelar-amplifier
+https://github.com/SzymonKubica/micro-bpf
+https://github.com/soyYaaG/ensaware-web-wasm
+https://github.com/rascasone/general-stack-comparison
+https://github.com/EdJoPaTo/rust-binary-metafile-template
+https://github.com/adevress/actix-web-archive
+https://github.com/diversable/leptos__multiple-css-files
+https://github.com/sanisoclem/leptos-vercel-test

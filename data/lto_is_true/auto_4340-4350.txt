@@ -1,0 +1,5 @@
+https://github.com/versotile-org/verso
+https://github.com/dfinity/response-verification
+https://github.com/wgr523/prism-smart-contracts
+https://github.com/Eagle9461/parity-ethereum
+https://github.com/thebigfilecom/thebigfile-com-dev

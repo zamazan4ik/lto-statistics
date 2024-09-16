@@ -1,0 +1,5 @@
+https://github.com/deib-polimi/renoir
+https://github.com/RustLangES/RustLangES.github.io
+https://github.com/TinkerBoard-Android/rockchip-android-external-rust-crates-combine
+https://github.com/Zageron/silver-palm-tree
+https://github.com/itpofy2024o/update-your-kit

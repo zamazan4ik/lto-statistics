@@ -1,0 +1,2 @@
+https://github.com/LIT-Protocol/Node
+https://github.com/securesecrets/Secret-DAODAO

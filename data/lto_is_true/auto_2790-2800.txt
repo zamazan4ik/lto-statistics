@@ -1,0 +1,10 @@
+https://github.com/TechEmpower/FrameworkBenchmarks
+https://github.com/deeper-chain/deeper-chain
+https://github.com/pscott31/happenings-ng
+https://github.com/davidB/ld47_keep_inside
+https://github.com/stackabletech/stackable-cockpit
+https://github.com/nearest-river/ship
+https://github.com/k1rowashere/alex_uni
+https://github.com/RedstoneWizard08/QuickScript
+https://github.com/JonasKruckenberg/k23
+https://github.com/skalimoi/OpenBTMapGen

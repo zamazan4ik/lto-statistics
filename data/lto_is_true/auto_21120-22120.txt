@@ -1,0 +1,4 @@
+https://github.com/uutils/coreutils
+https://github.com/cbruiz/printhor
+https://github.com/Manta-Network/Manta
+https://github.com/peaqnetwork/peaq-network-node

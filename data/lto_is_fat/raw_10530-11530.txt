@@ -1,0 +1,8 @@
+https://github.com/matter-labs/foundry-zksync
+https://github.com/threefoldtech/tfchain
+https://github.com/substrate-asia/hackathon-2023-winter
+https://github.com/ZeroDAO/melodot
+https://github.com/gianfra-t/substrate-storage-patch
+https://github.com/NoirHQ/horizon
+https://github.com/DJ0301/foundry-personal
+https://github.com/OneBlockPlus/polkadot-hackathon-2024

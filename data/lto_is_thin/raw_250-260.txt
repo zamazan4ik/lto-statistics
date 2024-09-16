@@ -1,0 +1,13 @@
+https://github.com/nmandery/h3ronpy
+https://github.com/bonsairobo/fast-surface-nets-rs
+https://github.com/jackgerrits/reductionml
+https://github.com/vbe0201/nix
+https://github.com/crumblingstatue/crusty-chip
+https://github.com/KumarRohit1423/RusticKnight
+https://github.com/WilliamVenner/gmcl_rekinect
+https://github.com/Dove6/piXlib
+https://github.com/marioortizmanero/transaction-system
+https://github.com/Hironha/leet-code-rs
+https://github.com/dekellum/marked
+https://github.com/vklachkov/mfp3000bot
+https://github.com/Hironha/leet-code-rs

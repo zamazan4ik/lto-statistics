@@ -1,0 +1,8 @@
+https://github.com/DioxusLabs/taffy
+https://github.com/hawkw/mycelium
+https://github.com/1N73LL1G3NC3x/Nightmangle
+https://github.com/rinde/more_collections
+https://github.com/stm32-rs/stm32f1xx-hal
+https://github.com/ozpv/haemolacriaa
+https://github.com/jamestiotio/overdue_backend
+https://github.com/ka-de/dataset-tools

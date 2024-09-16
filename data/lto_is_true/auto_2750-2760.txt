@@ -1,0 +1,13 @@
+https://github.com/swc-project/plugins
+https://github.com/radumarias/rencfs
+https://github.com/fiberseq/fibertools-rs
+https://github.com/AdinAck/Headlights-Firmware
+https://github.com/cryptaliagy/tomlq
+https://github.com/hanbu97/poseidon_merkle
+https://github.com/pkolaczk/latte
+https://github.com/borisfaure/cantor36-rs
+https://github.com/BLucky-gh/dotfiles
+https://github.com/vercre/vercre
+https://github.com/xianrenjituan/aliyundrive-webdav
+https://github.com/vhrdtech/vhrd-module-template
+https://github.com/flyq/zkdemo

@@ -1,0 +1,9 @@
+https://github.com/alexheretic/ab-glyph
+https://github.com/hcsch/aoc
+https://github.com/kek/swayr
+https://github.com/sondr3/git-anger-management
+https://github.com/Rrogntudju/odieux
+https://github.com/WorkingRobot/L4
+https://github.com/Rrogntudju/triche
+https://github.com/Rrogntudju/test-oidc-rs
+https://github.com/Rrogntudju/test-oidc-tauri

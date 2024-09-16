@@ -1,0 +1,5 @@
+https://github.com/stm32-rs/stm32f7xx-hal
+https://github.com/damus-io/notedeck
+https://github.com/lexi-the-cute/catgirl-engine
+https://github.com/k4g4/rustsweeper
+https://github.com/avlec/homestead-client

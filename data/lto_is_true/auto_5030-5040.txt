@@ -1,0 +1,4 @@
+https://github.com/martinfrances107/photo_indexer
+https://github.com/over-light/proxima-explorer
+https://github.com/TheDrawingCoder-Gamer/tilt-attack
+https://github.com/PegasusMKD/integrated-systems-leptos

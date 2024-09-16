@@ -1,0 +1,13 @@
+https://github.com/ulyssa/iamb
+https://github.com/ShieldBattery/ShieldBattery
+https://github.com/moonbitlang/moon
+https://github.com/asafigan/memory-game-prototype
+https://github.com/drymaik/raide
+https://github.com/clpi/wasm-blog
+https://github.com/recmo/cli-batteries
+https://github.com/UDogg/chatbot
+https://github.com/i-timur/irusty-llama
+https://github.com/alice39/alice-site
+https://github.com/droideck/scribro
+https://github.com/msft-mirror-aosp/platform.external.rust.crates.combine
+https://github.com/jinseok9338/voice-app

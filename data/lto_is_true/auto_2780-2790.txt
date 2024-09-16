@@ -1,0 +1,12 @@
+https://github.com/posit-dev/positron
+https://github.com/Gelbpunkt/gateway-proxy
+https://github.com/JeanMertz/automaat
+https://github.com/jonatlib/stm32-433mhz
+https://github.com/uutils/bsdutils
+https://github.com/Trustblock-Inc/trustblock-cli
+https://github.com/dist-svc/dsf
+https://github.com/16118736501/dove
+https://github.com/pscott31/happenings-ng
+https://github.com/desbma/bdf
+https://github.com/DevNulPavel/rust_examples
+https://github.com/Blakfs24/positron

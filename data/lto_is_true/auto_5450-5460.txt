@@ -1,0 +1,2 @@
+https://github.com/crowmatix/rustdesk
+https://github.com/msft-mirror-aosp/platform.external.rust.beto-rust

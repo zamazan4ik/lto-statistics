@@ -1,0 +1,2 @@
+https://github.com/Stremio/stremio-service
+https://github.com/MinaMatta98/Leptos-Chatting-Client

@@ -1,0 +1,5 @@
+https://github.com/extrawurst/gitui
+https://github.com/anton-sviridov/retina-cli
+https://github.com/winpax/sfsu
+https://github.com/jerome-trc/viletech
+https://github.com/lucifayr/archwiki-rs

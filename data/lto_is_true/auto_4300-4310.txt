@@ -1,0 +1,3 @@
+https://github.com/lambdaclass/cairo_native
+https://github.com/EtherCoinorg/ETE
+https://github.com/MysteryCoder456/codeboi.dev

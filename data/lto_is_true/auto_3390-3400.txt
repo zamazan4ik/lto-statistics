@@ -1,0 +1,6 @@
+https://github.com/subconsciousnetwork/noosphere
+https://github.com/Satellite-im/Uplink-Deprecated
+https://github.com/philipdaquin/fullstack-movie-streaming-platform
+https://github.com/foursalaysay/rust-chatbot
+https://github.com/kwheelans/pass-it-on
+https://github.com/sjud/capture-rs

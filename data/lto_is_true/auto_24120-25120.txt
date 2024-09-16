@@ -1,0 +1,7 @@
+https://github.com/zeitgeistpm/zeitgeist
+https://github.com/dhiway/cord
+https://github.com/ReDeFi-Blockchain/redefi-relay-node
+https://github.com/karanvir12/EVM_1.1.0
+https://github.com/VeronicaGupta/bittensor-txn-signing
+https://github.com/djpiper28/work2earn
+https://github.com/go9amn/ParachainsAPI
